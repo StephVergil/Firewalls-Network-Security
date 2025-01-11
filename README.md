@@ -45,4 +45,4 @@ This project focuses on strengthening Windows systems by configuring group polic
 - Mitigate threats by configuring Windows Defender for proactive scans.
 
 ## Documentation
-Refer to the [Host Hardening Lab Guide](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Host%20Hardening.docx) for full details.
+Refer to the [Firewalls & Network Security](https://github.com/StephVergil/Firewalls-Network-Security/blob/main/Host%20Hardening.docx)  for full details.
